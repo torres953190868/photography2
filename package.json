@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "web",
   "version": "1.0.0",
   "dependencies": {
@@ -6,5 +7,9 @@
   },
   "scripts": {
     "start": "index.js"
+=======
+  "dependencies": {
+    "express": "^4.19.2"
+>>>>>>> ac0eab9d7d2929b21f0dc29d1afa378bbea47916
   }
 }
